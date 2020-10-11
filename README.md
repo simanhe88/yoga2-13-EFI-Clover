@@ -1,13 +1,13 @@
 #yoga2-13-EFI-Clover
 
-yoga2-13 CLOVER Clover 5103
-Tested on 10.15.4 10.15.6
+yoga2 13 黑苹果Clover引导文件 Clover 5103
+Tested on 10.15.4 10.15.6
 
-电脑配置：
+电脑配置：
 i5-4210U
-4G内存
-hd4400集成显卡
-intel无线网卡
+4G内存
+hd4400集成显卡
+intel无线网卡
 内置蓝牙
 
 目前可用：
